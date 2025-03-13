@@ -1,2 +1,3 @@
-# Welcome to my GitHub page!
-## Please be patient, I am planning to upload project examples soon. Please feel welcome to email me to request project examples.
+# Welcome to my GitHub!
+## This repository is currently under construction. Please feel welcome to email me <west.celine@outlook.com> with any requests for current and previous work. 
+# Thank you!
